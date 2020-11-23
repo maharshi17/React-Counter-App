@@ -1,3 +1,7 @@
+# React Counter App
+
+This is a simple counter app made using React JS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
