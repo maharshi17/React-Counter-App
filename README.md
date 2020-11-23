@@ -4,7 +4,7 @@ This is a simple counter app made using React JS
 
 # Screenshot
 
-![](public/.PNG)
+![](public/counter_app_ss.PNG)
 
 # Getting Started with Create React App
 
