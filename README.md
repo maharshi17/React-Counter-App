@@ -2,6 +2,10 @@
 
 This is a simple counter app made using React JS
 
+# Screenshot
+
+![](public/.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
